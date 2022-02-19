@@ -53,8 +53,8 @@ the user is responsible.
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/https://replit.com/@shibi007/Achumwol-Qr?v=1")
- 
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@shibi007/Achumwol-Qr?v=1)
+  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHIBI-SER/Pinky)
   </div>
  
